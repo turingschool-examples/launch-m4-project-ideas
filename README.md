@@ -9,5 +9,5 @@
 * Jeremy K - [ProjectName]() 
 * Joe C - [ProjectName]() 
 * Rafi W - [ProjectName]() 
-* Seth G - [ProjectName]() 
+* Seth G - [Movies](SethProjectIdea.md) 
 * Skylar S - [ProjectName]() 
