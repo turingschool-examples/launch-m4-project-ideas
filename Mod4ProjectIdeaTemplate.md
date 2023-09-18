@@ -1,4 +1,3 @@
-
 ## [Project Name]
 
 ### [Student Name]
