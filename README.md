@@ -2,7 +2,7 @@
 [Project Idea Template](./Mod4ProjectIdeaTemplate.md)
 
 * Alex B - [ProjectName]()
-* Braden S - [ProjectName]()
+* Braden S - [Scene Sherpa](./SceneSherpa.md)
 * Eli P - [ProjectName]()
 * Isiah W - [ProjectName]() 
 * James C - [ProjectName]() 
