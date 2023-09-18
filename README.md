@@ -8,6 +8,6 @@
 * James C - [CodeCollab](./Mod4ProjectIdeaJames.md) 
 * Jeremy K - [ProjectName]() 
 * Joe C - [ProjectName]() 
-* Rafi W - [ProjectName]() 
+* Rafi W - [NBAStatPonder](./Mod4ProjectIdeaRafi.md) 
 * Seth G - [ProjectName]() 
 * Skylar S - [ProjectName]() 
