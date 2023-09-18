@@ -7,7 +7,7 @@
 * Isiah W - [ProjectName]() 
 * James C - [ProjectName]() 
 * Jeremy K - [ProjectName]() 
-* Joe C - [ProjectName]() 
+* Joe C - [TimeHopper](./Mod4ProjectIdeaJoe.md) 
 * Rafi W - [ProjectName]() 
 * Seth G - [ProjectName]() 
 * Skylar S - [ProjectName]() 
