@@ -1,7 +1,7 @@
 # Launch Mod 4 Project Ideas
 [Project Idea Template](./Mod4ProjectIdeaTemplate.md)
 
-* Alex B - [ProjectName](./ProjectIdea.md)
+* Alex B - [LibraryHub](./ProjectIdea.md)
 * Braden S - [ProjectName]()
 * Eli P - [ProjectName]()
 * Isiah W - [ProjectName]() 
