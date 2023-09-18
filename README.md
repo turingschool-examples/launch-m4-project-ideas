@@ -3,7 +3,7 @@
 
 * Alex B - [ProjectName]()
 * Braden S - [ProjectName]()
-* Eli P - [ProjectName]()
+* Eli P - [LevelUp](/LevelUp.md)
 * Isiah W - [ProjectName]() 
 * James C - [ProjectName]() 
 * Jeremy K - [ProjectName]() 
