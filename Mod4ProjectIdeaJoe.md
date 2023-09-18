@@ -1,7 +1,7 @@
 ### **Project Name**: TimeHopper
 
 ### **Pitch**:
-TimeHopper is your web-based time machine, merging past and present with a click. Be immersed in a place of your choosing and instantly see its history come to life. Dive into captivating transformations, from skyscraper rises to ancient landscapes, and experience history's visual journey. Join TimeHopper and connect deeper with every step you take
+TimeHopper is your web-based time machine, merging past and present with a click by comparing old and new photos. Be immersed in a place of your choosing and instantly see its history come to life. Dive into captivating transformations, from skyscraper rises to ancient landscapes, and experience history's visual journey. Join TimeHopper and connect deeper with every step you take
 
 ### **End User**:
 History enthusiasts, photographers, travelers, and community members looking to understand the history of their communities. 
