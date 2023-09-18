@@ -5,7 +5,7 @@
 * Braden S - [ProjectName]()
 * Eli P - [ProjectName]()
 * Isiah W - [ProjectName]() 
-* James C - [ProjectName]() 
+* James C - [CodeCollab](./Mod4ProjectIdeaTemplate.md) 
 * Jeremy K - [ProjectName]() 
 * Joe C - [ProjectName]() 
 * Rafi W - [ProjectName]() 

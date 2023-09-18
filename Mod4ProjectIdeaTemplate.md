@@ -1,16 +1,22 @@
-## [Project Name]
+## [CodeCollab]
 
-### [Student Name]
+### [James Cepriano]
 
 ### Pitch
-* 2 - 3 sentences that explains what the application will do.
+* This is a web application designed for programmers to streamline their project management processes. It allows programmers
+to create, organize, and manage projects efficiently, enabling them to break down projects into tasks, set deadlines, and track
+progress.
 
 ### End User
-* Who is this app target towards? Who is your user?
+* Developers/Engineers
 
 ### Problem
-* What problem is your app trying to solve? 
-* Why is your app different from any of the other 'similar' apps that are out there?
+* My app is trying to make managing projects easier. I want the user to be able to add projects and create their own tasks.
+Giving users the ability to seperate their projects in as many or little tasks as they want. 
 
 ### Features
-* What features will your app include?
+* Project Creation/Organization
+* Task Management per project
+* Collaboration between multiple people in one project
+* Progress tracking
+* User Authentication/Authorization
