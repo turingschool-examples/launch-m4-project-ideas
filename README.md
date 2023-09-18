@@ -10,4 +10,4 @@
 * Joe C - [ProjectName]() 
 * Rafi W - [ProjectName]() 
 * Seth G - [ProjectName]() 
-* Skylar S - [TasteBuddies](C:\Users\skyla\Source\Repos\launch-m4-project-ideasskylar\TasteBuddies.md) 
+* Skylar S - [TasteBuddies](TasteBuddies.md) 
