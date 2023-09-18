@@ -10,4 +10,4 @@
 * Joe C - [ProjectName]() 
 * Rafi W - [ProjectName]() 
 * Seth G - [ProjectName]() 
-* Skylar S - [ProjectName]() 
+* Skylar S - [TasteBuddies](TasteBuddies.md) 
