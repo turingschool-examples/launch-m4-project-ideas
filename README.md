@@ -4,7 +4,7 @@
 * Alex B - [ProjectName]()
 * Braden S - [ProjectName]()
 * Eli P - [ProjectName]()
-* Isiah W - [ProjectName]() 
+* Isiah W - [Animal Pound]() 
 * James C - [ProjectName]() 
 * Jeremy K - [ProjectName]() 
 * Joe C - [ProjectName]() 
